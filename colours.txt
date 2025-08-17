@@ -1,0 +1,7 @@
+blue\nred\ngreen
+blue
+red
+green
+blue
+red
+green
